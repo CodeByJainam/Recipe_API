@@ -1,0 +1,186 @@
+{
+    "status": "success",
+    "total": 10,
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Paneer Butter Masala",
+            "category": "Indian",
+            "time": "30 mins",
+            "difficulty": "Medium",
+            "rating": 4.6,
+            "ingredients": [
+                "Paneer",
+                "Butter",
+                "Tomato",
+                "Cream",
+                "Spices"
+            ],
+            "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+        },
+        {
+            "id": 2,
+            "name": "Paneer Tikka Masala",
+            "category": "Indian",
+            "time": "30 mins",
+            "difficulty": "Medium",
+            "rating": 4.6,
+            "ingredients": [
+                "Paneer",
+                "Butter",
+                "Tomato",
+                "Cream",
+                "Onions"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mfFJ80960tI7DHar3v7_84jB_h52zKVjb_zHomW5mA&s"
+        },
+        {
+            "id": 3,
+            "name": "Paneer Lababdar",
+            "category": "Indian",
+            "time": "30 mins",
+            "difficulty": "Medium",
+            "rating": 4.6,
+            "ingredients": [
+                "Paneer",
+                "Butter",
+                "Tomato",
+                "Cream",
+                "Spices"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6laWxultN0z9jvFVdPo8rrJ1kCB1onJITg&s"
+        },
+        {
+            "id": 4,
+            "name": "Veg Biryani",
+            "category": "Indian",
+            "time": "40 mins",
+            "difficulty": "Medium",
+            "rating": 4.5,
+            "ingredients": [
+                "Rice",
+                "Vegetables",
+                "Biryani Masala"
+            ],
+            "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2016/05/Lakhnawi-Veg-Biryani-01.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Margherita Pizza",
+            "category": "Italian",
+            "time": "25 mins",
+            "difficulty": "Easy",
+            "rating": 4.4,
+            "ingredients": [
+                "Flour",
+                "Cheese",
+                "Tomato Sauce"
+            ],
+            "image": "https://goldenspoonkitchen.com/images/pizza-margherita.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Veg Burger",
+            "category": "Fast Food",
+            "time": "20 mins",
+            "difficulty": "Easy",
+            "rating": 4.2,
+            "ingredients": [
+                "Bun",
+                "Potato Patty",
+                "Lettuce"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7upKlVxkEoqRy0sLDWDi9opymeKy1siHjw&s"
+        },
+        {
+            "id": 7,
+            "name": "White Sauce Pasta",
+            "category": "Italian",
+            "time": "25 mins",
+            "difficulty": "Easy",
+            "rating": 4.3,
+            "ingredients": [
+                "Pasta",
+                "Milk",
+                "Butter",
+                "Cheese"
+            ],
+            "image": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/white-sauce-pasta-featured.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Chicken Curry",
+            "category": "Indian",
+            "time": "45 mins",
+            "difficulty": "Hard",
+            "rating": 4.7,
+            "ingredients": [
+                "Chicken",
+                "Onion",
+                "Tomato",
+                "Spices"
+            ],
+            "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/10/Koli-Chicken-Curry-02.jpg"
+        },
+        {
+            "id": 9,
+            "name": "French Fries",
+            "category": "Fast Food",
+            "time": "15 mins",
+            "difficulty": "Easy",
+            "rating": 4.1,
+            "ingredients": [
+                "Potato",
+                "Oil",
+                "Salt"
+            ],
+            "image": "https://www.savoryexperiments.com/wp-content/uploads/2024/02/Cajun-Fries-19.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Veg Momos",
+            "category": "Chinese",
+            "time": "30 mins",
+            "difficulty": "Medium",
+            "rating": 4.5,
+            "ingredients": [
+                "Flour",
+                "Cabbage",
+                "Carrot"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0DCckG7pMaeA0RSTEakquv0xPJDEKFTCtw&s"
+        }
+    ],
+    "savedRecipes": [
+        {
+            "id": 10,
+            "name": "Veg Momos",
+            "category": "Chinese",
+            "time": "30 mins",
+            "difficulty": "Medium",
+            "rating": 4.5,
+            "ingredients": [
+                "Flour",
+                "Cabbage",
+                "Carrot"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0DCckG7pMaeA0RSTEakquv0xPJDEKFTCtw&s"
+        },
+        {
+            "id": 3,
+            "name": "Paneer Lababdar",
+            "category": "Indian",
+            "time": "30 mins",
+            "difficulty": "Medium",
+            "rating": 4.6,
+            "ingredients": [
+                "Paneer",
+                "Butter",
+                "Tomato",
+                "Cream",
+                "Spices"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6laWxultN0z9jvFVdPo8rrJ1kCB1onJITg&s"
+        }
+    ]
+}

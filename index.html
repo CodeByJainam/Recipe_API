@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Finder</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Recipe Finder</div>
+            <ul class="nav-links">
+                <li><a href="#" class="active" onclick="showHome()">Home</a></li>
+                <li><a href="#" onclick="showSaved()">Saved Recipes</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="search-section" class="hero">
+            <h1 class="hero-title">Recipe Finder</h1>
+
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search for recipes...">
+                <button id="searchBtn">Search</button>
+            </div>
+
+            <p class="tagline">Find your next delicious meal!</p>
+        </section>
+
+        <section id="results-section">
+            <h2 id="section-title" style="display:none;">Search Results</h2>
+            <div id="recipe-grid" class="grid-container">
+            </div>
+            <div id="result">
+
+            </div>
+            <div id="error">
+
+            </div>
+        </section>
+    </main>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
