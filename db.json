@@ -16,7 +16,7 @@
                 "Cream",
                 "Spices"
             ],
-            "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+            "image": "https://b.zmtcdn.com/data/dish_photos/202/e7339e887f074ba1e2f35b9656b68202.jpg?output-format=webp"
         },
         {
             "id": 2,
@@ -32,7 +32,7 @@
                 "Cream",
                 "Onions"
             ],
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mfFJ80960tI7DHar3v7_84jB_h52zKVjb_zHomW5mA&s"
+            "image": "https://b.zmtcdn.com/data/dish_photos/d71/b017eed5b3ce4f71440386d9eadfbd71.jpg"
         },
         {
             "id": 3,
@@ -48,7 +48,7 @@
                 "Cream",
                 "Spices"
             ],
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6laWxultN0z9jvFVdPo8rrJ1kCB1onJITg&s"
+            "image": "https://b.zmtcdn.com/data/dish_photos/a44/6053bd1f7fdb7f2bc4326de8ac874a44.jpg"
         },
         {
             "id": 4,
@@ -62,7 +62,7 @@
                 "Vegetables",
                 "Biryani Masala"
             ],
-            "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2016/05/Lakhnawi-Veg-Biryani-01.jpg"
+            "image": "https://b.zmtcdn.com/data/dish_photos/12f/6e984c96211574acbbaeef47d8a4612f.jpg?output-format=webp"
         },
         {
             "id": 5,
@@ -76,7 +76,7 @@
                 "Cheese",
                 "Tomato Sauce"
             ],
-            "image": "https://goldenspoonkitchen.com/images/pizza-margherita.jpg"
+            "image": "https://b.zmtcdn.com/data/dish_photos/af1/d3ce17714ed39a9940be91fe9c42faf1.jpeg?output-format=webp"
         },
         {
             "id": 6,
@@ -90,7 +90,7 @@
                 "Potato Patty",
                 "Lettuce"
             ],
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7upKlVxkEoqRy0sLDWDi9opymeKy1siHjw&s"
+            "image": "https://b.zmtcdn.com/data/dish_photos/39d/50cdbf432dd0dd16fe60ef6c8a8e139d.jpeg?output-format=webp"
         },
         {
             "id": 7,
@@ -105,22 +105,22 @@
                 "Butter",
                 "Cheese"
             ],
-            "image": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/white-sauce-pasta-featured.jpg"
+            "image": "https://b.zmtcdn.com/data/dish_photos/9bc/ddb3a78f6bf70e8c792db7ed597389bc.jpg?output-format=webp"
         },
         {
             "id": 8,
-            "name": "Chicken Curry",
+            "name": "Cake",
             "category": "Indian",
             "time": "45 mins",
             "difficulty": "Hard",
             "rating": 4.7,
             "ingredients": [
-                "Chicken",
-                "Onion",
-                "Tomato",
-                "Spices"
+                "Flour",
+                "Sugar",
+                "Eggs",
+                "Butter"
             ],
-            "image": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/10/Koli-Chicken-Curry-02.jpg"
+            "image": "https://b.zmtcdn.com/data/dish_photos/56d/20344789dc672ccdd0bd73f4ae34656d.jpeg"
         },
         {
             "id": 9,
@@ -134,7 +134,7 @@
                 "Oil",
                 "Salt"
             ],
-            "image": "https://www.savoryexperiments.com/wp-content/uploads/2024/02/Cajun-Fries-19.jpg"
+            "image": "https://b.zmtcdn.com/data/dish_photos/02a/8822bf54147800f9db33d151176b502a.jpg?output-format=webp"
         },
         {
             "id": 10,
@@ -148,7 +148,7 @@
                 "Cabbage",
                 "Carrot"
             ],
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0DCckG7pMaeA0RSTEakquv0xPJDEKFTCtw&s"
+            "image": "https://b.zmtcdn.com/data/dish_photos/f99/78dc595e810386fd864a772c974eaf99.jpg"
         }
     ],
     "savedRecipes": [
